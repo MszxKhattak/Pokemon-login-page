@@ -4,11 +4,7 @@ A fun and themed **login page for Pokémon lovers**, built using HTML, CSS, and 
 
 ---
 
-## 🧪 Demo / Preview
 
-*(Add a screenshot or GIF here if possible — helps people quickly see what it looks like.)*
-
----
 
 ## Features
 
